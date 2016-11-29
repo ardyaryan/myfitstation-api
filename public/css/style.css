@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    font: 100% Verdana, Arial, Helvetica, sans-serif;
+    background: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #000000;
+}
+#container {
+    width: 100%;
+    height: 80%;
+    margin: 0px auto;
+    /*border: 1px solid #868686;*/
+    /*color: #ffffff*/;
+    text-align: left;
+    /*background-color: #3ca984*/;
+}
+
+#tripsContainer {
+    width: 120%;
+    margin-left: -100px;
+    text-align: left;
+}
+
+#signupContainer {
+    width: 80%;
+    height: 580px;
+    margin: 0px auto;
+    text-align: left;
+}
+
+#dashboardContainer {
+    width: 100%;
+    height: 580px;
+    margin: 0px auto;
+    text-align: left;
+}
+
+#driversContainer {
+    width: 100%;
+    height: 580px;
+    margin-left: -50px;
+    text-align: left;
+}
+
+#carsContainer {
+    width: 100%;
+    height: 580px;
+    margin-left: -50px;
+    text-align: left;
+}
+
+#mainContent {
+    padding: 20px 30px 30px ;
+
+}
+div#form {
+
+
+}
+input{
+    padding: 8px;
+    margin: 5px;
+}
+#signup{
+    padding: 5px 60px;
+    margin: 5px;
+}
+a {color:#5a5a5a;font-weight: bold; text-decoration: none;}
+
+#start_address { width : 350px;}
+#end_address { width : 350px;}
+thead { font-size: 12px;}
+
+#message {color: white; font-size: 15px; font: "Helvetica Neue Light", "Lucida Grande", "Calibri", "Arial", sans-serif}
+
+.date {margin-top: 26;}
+.datepicker-switch {color: black;}
+.dow {color: black; font-size: 14;}
+.day {color: black; font-size: 14;}
+#search {margin-top: 24;}
+td {white-space:nowrap; font-size: 13px;}
+th {white-space:nowrap; font-size: 13px;}
+thead {background-color: gainsboro;}
+.error_placeholder::-webkit-input-placeholder {
+    color: white !important;
+}
+
+.replace {
+    margin-left: 15px;
+}
+
+.replace-text{
+    background-color: #EAEAEA;
+    padding: 6px;
+}
+
+#carDetails_wrapper {
+    margin-bottom: 45px;
+}
+
+table, th, td {
+    border: 0.4pt solid #CCC;
+}
+
+footer {
+    margin-top: 30%;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/presidential-car/app/routes.php</file>
+            <file>file:/C:/wamp/www/presidential-car/app/controllers/DriverController.php</file>
+            <file>file:/C:/wamp/www/presidential-car/app/views/admin/viewTrips.blade.php</file>
+            <file>file:/C:/wamp/www/presidential-car/public/js/partials/userDashboard.js</file>
+            <file>file:/C:/wamp/www/presidential-car/app/controllers/AdminController.php</file>
+            <file>file:/C:/wamp/www/presidential-car/app/views/admin/dashboard.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
